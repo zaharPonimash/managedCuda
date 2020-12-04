@@ -1,8 +1,14 @@
 Donate a beer to help me to keep managedCuda up to date :)
 
+
+
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=kunzmi&url=https://github.com/kunzmi/managedCuda&title=managedCuda&language=&tags=github&category=software)
 or
 [![Support via PayPal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.me/kunzmi/)
+
+
+### Plans:
+* Replace the console value of type "BadParam: An incorrect value or parameter was passed to the function." for exceptions
 
 
 # managedCuda
